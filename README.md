@@ -61,5 +61,12 @@ Rápida e eficiente no treinamento.
 Logistic (Sigmoid) é uma função de ativação que transforma entradas em um intervalo entre 0 e 1.
 ​Ideal para classificação binária, interpretando saídas como probabilidades.
 
+test_size=0.2 = foram 20% utilizados para teste
+80% para treinamentoo
+
+random_state=42 = numero de escolha aleatótio
+
+hidden_layer_sizes=(64, 32, 16) = tamanho da camada de treinamento 
+
 
 
