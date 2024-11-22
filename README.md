@@ -3,7 +3,7 @@ Referencia do DataSet: https://www.kaggle.com/datasets/fidelissauro/combustiveis
 RELATÓRIO DE ANÁLISE DO CÓDIGO
 
 1. INTRODUÇÃO
-O código fornecido implementa um modelo de rede neural para prever o preço médio de combustíveis no Brasil. Ele utiliza o modelo Perceptron Multicamadas (MLP) e emprega bibliotecas como pandas, NumPy, Matplotlib, e Scikit-learn. O objetivo principal é prever o preço médio da gasolina comum com base em atributos como ano e mês.
+O código fornecido implementa um modelo de rede neural para prever o preço médio de combustíveis no Brasil. Ele utiliza o modelo Perceptron Multicamadas (MLP) e emprega bibliotecas como pandas, NumPy, Matplotlib, seaborn e Scikit-learn. O objetivo principal é prever o preço médio da gasolina comum com base em atributos como ano e mês.
 
 2. ETAPAS PRINCIPAIS DO CÓDIGO
 
